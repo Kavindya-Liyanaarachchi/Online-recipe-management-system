@@ -98,6 +98,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact  
 For any inquiries or contributions, reach out to:  
-**Email**: dulsaramanakal@gmail.com  
+**Email**: kavindyaliyanaarachchi25@gmail.com  
 
 --- 
